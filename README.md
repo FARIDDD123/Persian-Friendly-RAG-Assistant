@@ -179,4 +179,7 @@ if uploaded_file and user_query:
 ```
 
 ---
+:)
+
+---
 
