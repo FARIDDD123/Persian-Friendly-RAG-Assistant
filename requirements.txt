@@ -1,0 +1,7 @@
+streamlit
+PyPDF2
+langdetect
+openai
+langchain
+chromadb
+sentence-transformers
